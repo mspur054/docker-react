@@ -1,7 +1,9 @@
 # Docker tutorial from Stephen Grider
 
+Simply learning how to deploy using travis.
+
 - Travis CI integration (testing and deploying)
-- AWS hosted
+- AWS elastic beanstalk hosted
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
