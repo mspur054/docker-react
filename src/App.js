@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          This is no longer okay I am in danger. Also doggos.
         </a>
       </header>
     </div>
