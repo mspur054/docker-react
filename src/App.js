@@ -10,13 +10,14 @@ function App() {
         <h5>
           Edit <code>src/App.js</code> and save to reload.
         </h5>
+        <p>I like doggos</p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is no longer okay I am in danger. Also doggos.
+          Learn React
         </a>
       </header>
     </div>
